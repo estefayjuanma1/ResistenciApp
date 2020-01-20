@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ResistenciApp</string>
+    <string name="codigo_de_colores_de_resistencias">Codigo de colores de resistencias!</string>
+    <string name="banda_1">Banda 1</string>
+    <string name="banda_4">Banda 4</string>
+    <string name="banda_3">Banda 3</string>
+    <string name="banda_2">Banda 2</string>
+    <string name="resultado">Resultado</string>
+    <string name="resultado_en_ohms">Resultado (en ohms)</string>
+
+    <string-array name="Color">
+        <item>Cafe</item>
+        <item>Negro</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+
+
+</resources>
